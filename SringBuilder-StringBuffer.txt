@@ -1,0 +1,7 @@
+StringBuilder :
+	The StringBuilder is a class that is used to create mutable strings.
+It is not synchronized and hence it is fast. StringBuilder is not thread safe.
+
+StringBuffer :
+	The StringBuffer is a class that is used to create mutable strings. 
+It is synchronized and hence it is slow. It is thread-safe.
